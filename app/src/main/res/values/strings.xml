@@ -97,4 +97,7 @@
 
     <string name="network_not_available">No Weather Information Available.The network is not available to fetch weather data</string>
 
+    <!-- Key name for storing location status in SharedPreferences -->
+    <string name="pref_location_status_key" transltable="false">loc-status</string>
+
 </resources>
